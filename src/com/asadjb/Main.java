@@ -1,5 +1,7 @@
 package com.asadjb;
 
+import com.asadjb.Day4.Day4;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -12,6 +14,9 @@ public class Main {
                 break;
             case "day3":
                 Day3.main();
+                break;
+            case "day4":
+                Day4.main();
                 break;
         }
     }
