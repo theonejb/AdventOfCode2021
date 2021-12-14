@@ -45,6 +45,9 @@ public class Main {
             case "day13":
                 Day13.main();
                 break;
+            case "day14":
+                Day14.main();
+                break;
         }
     }
 }
