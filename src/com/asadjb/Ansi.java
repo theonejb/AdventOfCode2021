@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public final class Ansi {
+public class Ansi {
 
     // Color code strings from:
     // http://www.topmudsites.com/forums/mud-coding/413-java-ansi.html
